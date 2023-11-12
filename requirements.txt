@@ -1,0 +1,10 @@
+bertopic==0.14.1
+gensim==4.3.1
+hdbscan==0.8.29
+nltk==3.8.1
+numpy==1.24.3
+numpy==1.24.2
+pandas==2.0.1
+scikit_learn==1.2.2
+sentence_transformers==2.2.2
+umap_learn==0.5.3
